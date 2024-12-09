@@ -2,7 +2,7 @@
 
 Main Programming Language - Python <br />
 Graphics Library - OPENCV<br />
-ORC - pytesseract<br />
+OCR - pytesseract<br />
 
 Translator API - LibreTranslate (Server Hosted Local)
 
