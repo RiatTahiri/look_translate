@@ -59,7 +59,6 @@ class Translate:
         self.mainThread.join()
     
     def drawCameraInfo(self, frame, width, height, FPS):
-
         font = cv2.FONT_HERSHEY_SIMPLEX
         fontScale = 0.8
         color = (255, 255, 255)
